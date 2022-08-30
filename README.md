@@ -9,8 +9,8 @@
 
 <h2>Índice</h2>
 
-- [⚙️ Tecnologias](#️-tecnologias)
-- [📖 Projeto](#-projeto)
+- [⚙️ Technologies](#️-technologies)
+- [📖 Project](#-project)
 - [🖌️ Layout](#️-layout)
 
 ---
@@ -21,11 +21,11 @@
 
 </div>
 
-> Design da aplicação
+> application design
 
-### ⚙️ Tecnologias
+### ⚙️ Technologies
 
-Esse projeto foi feito com as seguintes tecnologias.
+This project was made with the following technologies.
 
 - ReactTS
 - TypeScript
@@ -34,13 +34,13 @@ Esse projeto foi feito com as seguintes tecnologias.
 - Prisma
 - Socket.io
 
-### 📖 Projeto
+### 📖 Project
 
-Aplicação fullstack feita no NLW para o evento DoWhile 2021. A aplicação contém comunicação real time com o servidor node e integrações websockets.
+Fullstack application made in NLW for the DoWhile 2021 event. The application contains real time communication with the node server and websockets integrations.
 
 ### 🖌️ Layout
 
-Disponibilizado pela Rocketseat e utilizado como base para o projeto:
+Provided by Rocketseat and used as a basis for the project:
 
 - [Layout](https://www.figma.com/community/file/1031699316177416916)
 
